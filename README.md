@@ -1,4 +1,4 @@
-Experiment Pendulum
+Experiment Resonant RLC Circuit
 
 ***This project is part of AVE3 pratical course for Modelling and Simulation.
 The experiment is to study about the electro-magnetic oscillationss by electric resonant circuit.
